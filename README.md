@@ -8,7 +8,7 @@ This repository is the **Blender 4.3** version. The Blender 5.1 version is a sep
 
 Requires **Blender 4.3** (made for 4.3.2). This is a legacy add-on, not a Blender extension.
 
-1. Download the release zip (not GitHub's "Download ZIP": that puts everything in a `-main` folder, and Blender then installs it under a different name).
+1. Download `io_scene_dts-<version>-blender-4.3.zip` from [Releases](https://github.com/CommonProp/io_scene_dts_4.3.2/releases) (not GitHub's "Download ZIP": that puts everything in a `-main` folder, and Blender then installs it under a different name).
 2. `Edit > Preferences > Add-ons > Install from Disk...`, pick the zip.
 3. Enable **Torque DTS format**.
 
@@ -78,4 +78,4 @@ Based on [io_scene_dts](https://github.com/qoh/io_scene_dts) by port (Nick Smith
 
 MIT License, see [LICENSE](LICENSE).
 
-[other-version]: https://github.com/YOUR-GITHUB-NAME/io_scene_dts_5.1.2
+[other-version]: https://github.com/CommonProp/io_scene_dts_5.1.2
